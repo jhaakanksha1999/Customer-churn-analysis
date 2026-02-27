@@ -105,3 +105,7 @@ Early dissatisfaction detection
 
 This insight shifts the focus from short-term customers to contract renewal strategy.
 
+Live Interactive Dashboard 
+You can view the full dashboard here:
+[Click here to view] https://app.powerbi.com/view?r=eyJrIjoiODExNjM3NzYtMTVjYi00Y2VlLWJkM2YtNmE1YmYxYjJkN2MyIiwidCI6IjQ2ZGY3MDk4LTRkNmEtNDJkNS1hYmFmLTJhNzRmMWY3Mjc1MyJ9
+
